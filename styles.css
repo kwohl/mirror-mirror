@@ -1,0 +1,26 @@
+#green {
+    border: 1px solid lightseagreen;
+    width: 50%;
+    height: 1em;
+    display: flex;
+    margin-right: 5px;
+}
+
+#pink {
+    border: 1px solid palevioletred;
+    width: 50%;
+    height: 1em;
+    display: flex;
+    margin-left: 5px;
+}
+
+.input {
+    margin: 5%;
+}
+
+.output {
+    display: flex;
+    margin: 5%;
+    flex-direction: row;
+}
+
